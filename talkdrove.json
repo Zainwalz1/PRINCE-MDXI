@@ -8,7 +8,7 @@
   
   "env": {
     "SESSION_ID": {
-      "description": "Must Start with 'PRINCE-MDX~'",
+      "description": "PRINCE-MDX~p064BUDVM0WgttUzNbVE",
       "required": true,
       "value": ""
     },  
@@ -18,14 +18,14 @@
       "value": "public"
     },
     "OWNER_NAME": {
-      "description": "Put Owner Name Here",
+      "description": "walz",
       "required": true,
       "value": "Prince Tech"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "237677224245"
+      "value": "263776030359"
     },
     "ANTI_DELETE": {
       "description": "Put true/inboxonly/allchats/false",
